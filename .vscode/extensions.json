@@ -1,31 +1,32 @@
 {
   "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "styled-components.vscode-styled-components",
-    "esbenp.prettier-vscode",
-    "visualstudioexptteam.vscodeintellicode",
-    "visualstudioexptteam.intellicode-api-usage-examples",
-    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
     "streetsidesoftware.code-spell-checker",
-    "editorconfig.editorconfig",
+    "vnaumovs.color-highlight",
     "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "MS-CEINTL.vscode-language-pack-ja",
+    "ritwickdey.LiveServer",
+    "PKief.material-icon-theme",
+    "ionutvmi.path-autocomplete",
+    "esbenp.prettier-vscode",
+    "natqe.reload",
     "stylelint.vscode-stylelint",
-    "github.vscode-pull-request-github",
-    "wayou.vscode-todo-highlight",
-    "naumovs.color-highlight",
-    // for React Project
-    // "dsznajder.es7-react-js-snippets",
-    // for Vue TS Project
-    // "vue.vscode-typescript-vue-plugin",
-    // for Vue 2 Project
-    // "yoyo930021.vuter",
-    // for Vue 3 Project
-    // "vue.volar",
+    "wayou.vscode-todo-highlight"
   ],
   "unwantedRecommendations": [
-    // for Vue 2 Project
-    // "vue.volar",
-    // for Vue 3 Project
-    // "yoyo930021.vuter",
+    "vivaxy.vscode-conventional-commits",
+    "dsznajder.es7-react-js-snippets",
+    "GitHub.copilot",
+    "yoavbls.pretty-ts-errors",
+    "styled-components.vscode-styled-components",
+    "redhat.vscode-yaml",
+    "vue.volar",
+    "yoyo930021.vuter"
   ]
 }
